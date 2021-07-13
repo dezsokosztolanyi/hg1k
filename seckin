@@ -1,167 +1,430 @@
 [
-{
-"kelimeNo" : 1,
-"kelime" : "mahmuz"
-},
-{
-"kelimeNo" : 2,
-"kelime" : "rant"
-},
-{
-"kelimeNo" : 3,
-"kelime" : "çehre"
-},
-{
-"kelimeNo" : 4,
-"kelime" : "supap"
-},
-{
-"kelimeNo" : 5,
-"kelime" : "müstakbel"
-},
-{
-"kelimeNo" : 6,
-"kelime" : "sergüzeşt"
-}
-,
-{
-"kelimeNo" : 1,
-"kelime" : "anne"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "payidar"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "emek"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "minnettar"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "baba"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "nihayet"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "inayet"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "istiklal"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "kurtuluş"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "ricat"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "canan"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "kadın"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "vefa"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "bayram"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "yörünge"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "tolga"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "abece"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "soy"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "ülkü"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "bayrak"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "buyruk"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "neşriyat"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "izahat"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "tenkit"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "istidat"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "tasfiye"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "liyakat"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "vakıa"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "müteessir"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "behemehal"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "mezbele"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "içtimai"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "haddizatında"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "mukabil"
-},
-{
-"kelimeNo" : 1,
-"kelime" : "maruf"
-}
+  {
+    "kelimeNo": 1,
+    "kelime": "mahmuz"
+  },
+  {
+    "kelimeNo": 2,
+    "kelime": "rant"
+  },
+  {
+    "kelimeNo": 3,
+    "kelime": "çehre"
+  },
+  {
+    "kelimeNo": 4,
+    "kelime": "supap"
+  },
+  {
+    "kelimeNo": 5,
+    "kelime": "müstakbel"
+  },
+  {
+    "kelimeNo": 6,
+    "kelime": "sergüzeşt"
+  },
+  {
+    "kelimeNo": 7,
+    "kelime": "anne"
+  },
+  {
+    "kelimeNo": 8,
+    "kelime": "payidar"
+  },
+  {
+    "kelimeNo": 9,
+    "kelime": "emek"
+  },
+  {
+    "kelimeNo": 10,
+    "kelime": "minnettar"
+  },
+  {
+    "kelimeNo": 11,
+    "kelime": "baba"
+  },
+  {
+    "kelimeNo": 12,
+    "kelime": "nihayet"
+  },
+  {
+    "kelimeNo": 13,
+    "kelime": "inayet"
+  },
+  {
+    "kelimeNo": 14,
+    "kelime": "istiklal"
+  },
+  {
+    "kelimeNo": 15,
+    "kelime": "kurtuluş"
+  },
+  {
+    "kelimeNo": 16,
+    "kelime": "ricat"
+  },
+  {
+    "kelimeNo": 17,
+    "kelime": "canan"
+  },
+  {
+    "kelimeNo": 18,
+    "kelime": "kadın"
+  },
+  {
+    "kelimeNo": 19,
+    "kelime": "vefa"
+  },
+  {
+    "kelimeNo": 20,
+    "kelime": "bayram"
+  },
+  {
+    "kelimeNo": 21,
+    "kelime": "yörünge"
+  },
+  {
+    "kelimeNo": 22,
+    "kelime": "tolga"
+  },
+  {
+    "kelimeNo": 23,
+    "kelime": "abece"
+  },
+  {
+    "kelimeNo": 24,
+    "kelime": "soy"
+  },
+  {
+    "kelimeNo": 25,
+    "kelime": "ülkü"
+  },
+  {
+    "kelimeNo": 26,
+    "kelime": "bayrak"
+  },
+  {
+    "kelimeNo": 27,
+    "kelime": "buyruk"
+  },
+  {
+    "kelimeNo": 28,
+    "kelime": "neşriyat"
+  },
+  {
+    "kelimeNo": 29,
+    "kelime": "izahat"
+  },
+  {
+    "kelimeNo": 30,
+    "kelime": "tenkit"
+  },
+  {
+    "kelimeNo": 31,
+    "kelime": "istidat"
+  },
+  {
+    "kelimeNo": 32,
+    "kelime": "tasfiye"
+  },
+  {
+    "kelimeNo": 33,
+    "kelime": "liyakat"
+  },
+  {
+    "kelimeNo": 34,
+    "kelime": "vakıa"
+  },
+  {
+    "kelimeNo": 35,
+    "kelime": "müteessir"
+  },
+  {
+    "kelimeNo": 36,
+    "kelime": "behemehal"
+  },
+  {
+    "kelimeNo": 37,
+    "kelime": "mezbele"
+  },
+  {
+    "kelimeNo": 38,
+    "kelime": "içtimai"
+  },
+  {
+    "kelimeNo": 39,
+    "kelime": "haddizatında"
+  },
+  {
+    "kelimeNo": 40,
+    "kelime": "mukabil"
+  },
+  {
+    "kelimeNo": 41,
+    "kelime": "maruf"
+  },
+  {
+    "kelimeNo": 42,
+    "kelime": "muhacir"
+  },
+  {
+    "kelimeNo": 43,
+    "kelime": "zemberek"
+  },
+  {
+    "kelimeNo": 44,
+    "kelime": "iltimas"
+  },
+  {
+    "kelimeNo": 45,
+    "kelime": "bön"
+  },
+  {
+    "kelimeNo": 46,
+    "kelime": "apolet"
+  },
+  {
+    "kelimeNo": 47,
+    "kelime": "mevhum"
+  },
+  {
+    "kelimeNo": 48,
+    "kelime": "zaruri"
+  },
+  {
+    "kelimeNo": 49,
+    "kelime": "destan"
+  },
+  {
+    "kelimeNo": 50,
+    "kelime": "bakılsa"
+  },
+  {
+    "kelimeNo": 51,
+    "kelime": "riayet"
+  },
+  {
+    "kelimeNo": 52,
+    "kelime": "fersude"
+  },
+  {
+    "kelimeNo": 53,
+    "kelime": "sitayiş"
+  },
+  {
+    "kelimeNo": 54,
+    "kelime": "zirzop"
+  },
+  {
+    "kelimeNo": 55,
+    "kelime": "çektiri"
+  },
+  {
+    "kelimeNo": 56,
+    "kelime": "romantizm"
+  },
+  {
+    "kelimeNo": 57,
+    "kelime": "doludizgin"
+  },
+  {
+    "kelimeNo": 58,
+    "kelime": "çöpatlamaz"
+  },
+  {
+    "kelimeNo": 59,
+    "kelime": "ibre"
+  },
+  {
+    "kelimeNo": 60,
+    "kelime": "kalpak"
+  },
+  {
+    "kelimeNo": 61,
+    "kelime": "efsun"
+  },
+  {
+    "kelimeNo": 62,
+    "kelime": "amfiteatr"
+  },
+  {
+    "kelimeNo": 63,
+    "kelime": "haybe"
+  },
+  {
+    "kelimeNo": 64,
+    "kelime": "vatansever"
+  },
+  {
+    "kelimeNo": 65,
+    "kelime": "ittihat"
+  },
+  {
+    "kelimeNo": 66,
+    "kelime": "terakki"
+  },
+  {
+    "kelimeNo": 67,
+    "kelime": "suzeni"
+  },
+  {
+    "kelimeNo": 68,
+    "kelime": "iptidai"
+  },
+  {
+    "kelimeNo": 69,
+    "kelime": "istihza"
+  },
+  {
+    "kelimeNo": 70,
+    "kelime": "hasretmek"
+  },
+  {
+    "kelimeNo": 71,
+    "kelime": "daniska"
+  },
+  {
+    "kelimeNo": 72,
+    "kelime": "görece"
+  },
+  {
+    "kelimeNo": 73,
+    "kelime": "kehanet"
+  },
+  {
+    "kelimeNo": 74,
+    "kelime": "inkılap"
+  },
+  {
+    "kelimeNo": 75,
+    "kelime": "raşe"
+  },
+  {
+    "kelimeNo": 76,
+    "kelime": "celepçi"
+  },
+  {
+    "kelimeNo": 77,
+    "kelime": "muhteris"
+  },
+  {
+    "kelimeNo": 78,
+    "kelime": "merbutiyet"
+  },
+  {
+    "kelimeNo": 79,
+    "kelime": "selef"
+  },
+  {
+    "kelimeNo": 80,
+    "kelime": "sefahat"
+  },
+  {
+    "kelimeNo": 81,
+    "kelime": "kağnı"
+  },
+  {
+    "kelimeNo": 82,
+    "kelime": "muvazene"
+  },
+  {
+    "kelimeNo": 83,
+    "kelime": "tecerrüt"
+  },
+  {
+    "kelimeNo": 84,
+    "kelime": "vekalet"
+  },
+  {
+    "kelimeNo": 85,
+    "kelime": "tambura"
+  },
+  {
+    "kelimeNo": 86,
+    "kelime": "rapten"
+  },
+  {
+    "kelimeNo": 87,
+    "kelime": "şimşirlik"
+  },
+  {
+    "kelimeNo": 88,
+    "kelime": "virt"
+  },
+  {
+    "kelimeNo": 89,
+    "kelime": "erbain"
+  },
+  {
+    "kelimeNo": 90,
+    "kelime": "haminne"
+  },
+  {
+    "kelimeNo": 91,
+    "kelime": "izbe"
+  },
+  {
+    "kelimeNo": 92,
+    "kelime": "meyil"
+  },
+  {
+    "kelimeNo": 93,
+    "kelime": "çalçene"
+  },
+  {
+    "kelimeNo": 94,
+    "kelime": "fevri"
+  },
+  {
+    "kelimeNo": 95,
+    "kelime": "mah"
+  },
+  {
+    "kelimeNo": 96,
+    "kelime": "istidat"
+  },
+  {
+    "kelimeNo": 97,
+    "kelime": "iştiha"
+  },
+  {
+    "kelimeNo": 98,
+    "kelime": "havi"
+  },
+  {
+    "kelimeNo": 99,
+    "kelime": "menfaatperver"
+  },
+  {
+    "kelimeNo": 100,
+    "kelime": "mürüvvet"
+  },
+  {
+    "kelimeNo": 101,
+    "kelime": "alamet"
+  },
+  {
+    "kelimeNo": 102,
+    "kelime": "ihtiyatlılık"
+  },
+  {
+    "kelimeNo": 103,
+    "kelime": "civanmert"
+  },
+  {
+    "kelimeNo": 104,
+    "kelime": "dehliz"
+  },
+  {
+    "kelimeNo": 105,
+    "kelime": "şilt"
+  },
+  {
+    "kelimeNo": 106,
+    "kelime": "desise"
+  },
+  {
+    "kelimeNo": 107,
+    "kelime": "alimallah"
+  }
 ]
